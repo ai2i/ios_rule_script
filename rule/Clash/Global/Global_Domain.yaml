@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-29 02:12:39
+# UPDATED: 2023-05-04 02:12:36
 # DOMAIN: 158
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 18944
+# DOMAIN-SUFFIX: 18955
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 19252
+# TOTAL: 19263
 payload:
   - 'adobeereg.com'
   - 'angle.com.tw'
@@ -388,6 +388,7 @@ payload:
   - '+.67id.com'
   - '+.67maoab.com'
   - '+.69-sexgames.com'
+  - '+.69bag.xyz'
   - '+.69femdom.com'
   - '+.69flv.com'
   - '+.69gayporno.com'
@@ -2219,6 +2220,7 @@ payload:
   - '+.bluemix.net'
   - '+.bluestacks.com'
   - '+.bluffyporn.com'
+  - '+.blurams.com'
   - '+.blz-contentstack.com'
   - '+.blzstatic.cn'
   - '+.bmia.org'
@@ -5495,6 +5497,8 @@ payload:
   - '+.gmoney.org'
   - '+.gnom-cham.com'
   - '+.gnu.org'
+  - '+.gnzi.xyz'
+  - '+.gnzi1.top'
   - '+.go-disneyworldgo.com'
   - '+.go-gaytube.com'
   - '+.go-lang.com'
@@ -6921,6 +6925,7 @@ payload:
   - '+.javcup.com'
   - '+.javdb.com'
   - '+.javdisk.com'
+  - '+.javdock.com'
   - '+.javdoe.com'
   - '+.javdove.com'
   - '+.javdove8.xyz'
@@ -7004,6 +7009,7 @@ payload:
   - '+.javynow.com'
   - '+.jayspov.net'
   - '+.jbe-platform.com'
+  - '+.jbk005.com'
   - '+.jdavsp.pw'
   - '+.jdbimgs.com'
   - '+.jdbstatic.com'
@@ -8848,6 +8854,7 @@ payload:
   - '+.ntdtv.com'
   - '+.ntdvn.com'
   - '+.nu-bay.com'
+  - '+.nu36.vip'
   - '+.nubilefilms.com'
   - '+.nubiles-casting.com'
   - '+.nubiles-porn.com'
@@ -10010,6 +10017,7 @@ payload:
   - '+.ptt2.cc'
   - '+.ptt3.cc'
   - '+.ptzwx.com'
+  - '+.pu82.vip'
   - '+.pubgno1.cn'
   - '+.public-sex-porn.com'
   - '+.public-trust.com'
@@ -10271,6 +10279,7 @@ payload:
   - '+.redxxx.cc'
   - '+.redxxxvideos.com'
   - '+.redzonechannel.com'
+  - '+.ree007.xyz'
   - '+.reform-apple.com'
   - '+.regex101.com'
   - '+.regiongold.com'
@@ -11067,6 +11076,7 @@ payload:
   - '+.ssshuqian.xyz'
   - '+.sssins.com'
   - '+.sssjav.com'
+  - '+.sssuo1.xyz'
   - '+.ssx3.com'
   - '+.st.dl.bscstorage.net'
   - '+.st.dl.eccdnx.com'
@@ -13138,6 +13148,7 @@ payload:
   - '+.ywbclx.top'
   - '+.ywoos.com'
   - '+.yximg.cn'
+  - '+.yzld188.top'
   - '+.z.cn'
   - '+.z00.world'
   - '+.z18r.co'

@@ -1,22 +1,22 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-05-03 02:12:01
-# DOMAIN: 144
+# UPDATED: 2023-05-04 02:14:26
+# DOMAIN: 141
 # DOMAIN-KEYWORD: 3
 # DOMAIN-SUFFIX: 114
 # IP-CIDR: 5
 # IP-CIDR6: 2
-# TOTAL: 268
+# TOTAL: 265
 payload:
   - DOMAIN,1337.abcvg.info
+  - DOMAIN,6ahddutb1ucc3cp.ru
   - DOMAIN,9.rarbg.com
   - DOMAIN,aarsen.me
   - DOMAIN,acxx.de
   - DOMAIN,aegir.sexy
   - DOMAIN,astrr.ru
   - DOMAIN,bedro.cloud
-  - DOMAIN,black-bird.ynh.fr
   - DOMAIN,boysbitte.be
   - DOMAIN,bt.endpot.com
   - DOMAIN,bt.ktrackers.com
@@ -37,6 +37,7 @@ payload:
   - DOMAIN,hub.bugout.link
   - DOMAIN,inferno.demonoid.is
   - DOMAIN,ipv6.tracker.monitorit4.me
+  - DOMAIN,jutone.com
   - DOMAIN,laze.cc
   - DOMAIN,linfan.moe
   - DOMAIN,mail.artixlinux.org
@@ -93,7 +94,6 @@ payload:
   - DOMAIN,tracker.beeimg.com
   - DOMAIN,tracker.birkenwald.de
   - DOMAIN,tracker.bitsearch.to
-  - DOMAIN,tracker.bittor.pw
   - DOMAIN,tracker.bt4g.com
   - DOMAIN,tracker.cubonegro.lol
   - DOMAIN,tracker.cyberia.is
@@ -109,7 +109,6 @@ payload:
   - DOMAIN,tracker.jiesen.life
   - DOMAIN,tracker.jonaslsa.com
   - DOMAIN,tracker.joybomb.tw
-  - DOMAIN,tracker.k.vu
   - DOMAIN,tracker.kuroy.me
   - DOMAIN,tracker.leech.ie
   - DOMAIN,tracker.lilithraws.cf
@@ -132,7 +131,6 @@ payload:
   - DOMAIN,tracker.theoks.net
   - DOMAIN,tracker.tiny-vps.com
   - DOMAIN,tracker.torrent.eu.org
-  - DOMAIN,tracker.zerobytes.xyz
   - DOMAIN,tracker1.520.jp
   - DOMAIN,tracker1.bt.moack.co.kr
   - DOMAIN,tracker1.itzmx.com
@@ -152,7 +150,6 @@ payload:
   - DOMAIN,www.peckservers.com
   - DOMAIN,www.torrent.eu.org
   - DOMAIN,www.wareztorrent.com
-  - DOMAIN,zecircle.xyz
   - DOMAIN-SUFFIX,52pt.site
   - DOMAIN-SUFFIX,aidoru-online.me
   - DOMAIN-SUFFIX,alpharatio.cc
