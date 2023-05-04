@@ -12,15 +12,15 @@ Opera规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-04-07 14:51:20
+最后更新时间：2023-05-05 02:12:06
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| HOST-SUFFIX | 12  | 
+| HOST-SUFFIX | 13  | 
 | IP-CIDR | 7  | 
 | IP6-CIDR | 1  | 
-| TOTAL | 20  | 
+| TOTAL | 21  | 
 
 
 ## QuantumultX 
