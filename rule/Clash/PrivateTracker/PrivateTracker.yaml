@@ -1,13 +1,13 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-05-05 02:12:10
-# DOMAIN: 143
+# UPDATED: 2023-05-06 02:12:09
+# DOMAIN: 145
 # DOMAIN-KEYWORD: 3
 # DOMAIN-SUFFIX: 114
 # IP-CIDR: 5
 # IP-CIDR6: 2
-# TOTAL: 267
+# TOTAL: 269
 payload:
   - DOMAIN,1337.abcvg.info
   - DOMAIN,6ahddutb1ucc3cp.ru
@@ -17,6 +17,7 @@ payload:
   - DOMAIN,aegir.sexy
   - DOMAIN,astrr.ru
   - DOMAIN,bedro.cloud
+  - DOMAIN,black-bird.ynh.fr
   - DOMAIN,boysbitte.be
   - DOMAIN,bt.endpot.com
   - DOMAIN,bt.ktrackers.com
@@ -47,7 +48,6 @@ payload:
   - DOMAIN,new-line.net
   - DOMAIN,nyaa.tracker.wf
   - DOMAIN,open.acgnxtracker.com
-  - DOMAIN,open.acgtracker.com
   - DOMAIN,open.demonii.com
   - DOMAIN,open.dstud.io
   - DOMAIN,open.stealth.si
@@ -73,6 +73,7 @@ payload:
   - DOMAIN,static.54.161.216.95.clients.your-server.de
   - DOMAIN,t.133335.xyz
   - DOMAIN,t.acg.rip
+  - DOMAIN,t.nyaatracker.com
   - DOMAIN,t1.hloli.org
   - DOMAIN,tamas3.ynh.fr
   - DOMAIN,thagoat.rocks
@@ -100,6 +101,7 @@ payload:
   - DOMAIN,tracker.cyberia.is
   - DOMAIN,tracker.dler.com
   - DOMAIN,tracker.dler.org
+  - DOMAIN,tracker.edkj.club
   - DOMAIN,tracker.farted.net
   - DOMAIN,tracker.filemail.com
   - DOMAIN,tracker.files.fm

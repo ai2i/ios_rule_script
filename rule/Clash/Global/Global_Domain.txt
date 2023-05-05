@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-05-04 02:12:36
+# UPDATED: 2023-05-06 02:10:45
 # DOMAIN: 158
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 18955
+# DOMAIN-SUFFIX: 18978
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 19263
+# TOTAL: 19286
 adobeereg.com
 angle.com.tw
 anime-rule34-world.b-cdn.net
@@ -286,6 +286,7 @@ aqi.aqicn.org
 .2mdn.net
 .30plusgirls.com
 .32bm.cc
+.35s4.com
 .365buymy.com
 .3789av.com
 .39group.info
@@ -450,6 +451,8 @@ aqi.aqicn.org
 .921bb.com
 .922tp.com
 .928.plus
+.941tube.com
+.9550.fun
 .97dounai.top
 .99quse.cc
 .99re.com
@@ -1998,6 +2001,7 @@ aqi.aqicn.org
 .bestialitysextaboo.com
 .bestiphonestuff.com
 .bestjapanesepornsites.com
+.bestjavporn.net
 .bestkinky.com
 .bestlistofporn.com
 .bestmallawards.com
@@ -3897,6 +3901,7 @@ aqi.aqicn.org
 .dvh30n.vip
 .dweb.link
 .dx9527.cc
+.dxyav.co
 .dykycl.com
 .dynacw.com
 .dynafleetonline.com
@@ -5100,6 +5105,7 @@ aqi.aqicn.org
 .free-strip-games.com
 .free-wap-tube.com
 .free-xxx-porn.org
+.free00.com
 .free18.net
 .free3dadultgames.com
 .free64all.com
@@ -5189,6 +5195,7 @@ aqi.aqicn.org
 .ftopx.com
 .ftvgirls.com
 .ftvmilfs.com
+.fu62.vip
 .fuchsia.dev
 .fuck-xxx-movies.com
 .fuck.com
@@ -5971,6 +5978,7 @@ aqi.aqicn.org
 .herringnetwork.com
 .hetzner.cloud
 .hetzner.com
+.hexatronik.com
 .hey.boo
 .heydoga.com
 .heydouga.com
@@ -6468,6 +6476,7 @@ aqi.aqicn.org
 .ihappystudio.cn
 .iherb.com
 .iijav.com
+.iirmll.com
 .ijavhd.com
 .ikea.cn
 .ikea.com
@@ -6810,6 +6819,7 @@ aqi.aqicn.org
 .isiknowledge.com
 .iskoot.com
 .islamiccenterofnewlondon.com
+.iss138.com
 .issitedownrightnow.com
 .issquaredown.com
 .issquareup.com
@@ -6862,6 +6872,7 @@ aqi.aqicn.org
 .iwaponline.com
 .iwork.com
 .iwork.wang
+.iwyn138.com
 .iyalc.com
 .iyottube.com
 .izatcloud.net
@@ -7516,6 +7527,7 @@ aqi.aqicn.org
 .lsnzxzy1.com
 .lspimg.com
 .lss55.com
+.ltube.life
 .lua.org
 .lubetube.com
 .lucahmelayu.club
@@ -8054,6 +8066,7 @@ aqi.aqicn.org
 .mkto-c0100.com
 .mktorest.com
 .mktroute.com
+.mm9841.cc
 .mm9c63ae.xyz
 .mmaaxx.com
 .mmdnn.com
@@ -8110,6 +8123,7 @@ aqi.aqicn.org
 .momsyoungboys.net
 .momtarts3d.com
 .momtube.club
+.monaitv.me
 .monbeats2013.com
 .moneyswift.online
 .moneywithfacebook.com
@@ -8247,6 +8261,7 @@ aqi.aqicn.org
 .msauthimages.cn
 .mschallenge2018.com
 .msdn.com
+.msflj.vip
 .msft.info
 .msft.net
 .msftauth.cn
@@ -8919,6 +8934,7 @@ aqi.aqicn.org
 .nvidiagrid.net
 .nwcdcloud.cn
 .nwcdinfosec.cn
+.nwxs8.com
 .nxta.org
 .nyaa.net
 .nyansa.com
@@ -10190,6 +10206,7 @@ aqi.aqicn.org
 .rbsgr.com
 .rbspeakup.com
 .rclon.com
+.re25.vip
 .rea-asia.com
 .rea-group.com
 .rea.design
@@ -10364,6 +10381,7 @@ aqi.aqicn.org
 .rplay.live
 .rpmfusion.org
 .rprimelab.com
+.rrs1.xyz
 .rrtis.com
 .rstatic.net
 .rt.com
@@ -10994,6 +11012,7 @@ aqi.aqicn.org
 .sorairi.info
 .sorcerersarena.com
 .soso7778.com
+.souka.xyz
 .soundofhope.org
 .sourceforge.com
 .sourcingforebay.net
@@ -12813,6 +12832,7 @@ aqi.aqicn.org
 .xtracloud.cn
 .xtubebdsm.com
 .xtubezoo.com
+.xu97.vip
 .xujan.com
 .xv1.monster
 .xvedo.net
@@ -12995,6 +13015,7 @@ aqi.aqicn.org
 .yatong.info
 .yavtube.com
 .yazhouse8.com
+.yeonda.com
 .yepporn.com
 .yespornfree.com
 .yespornplease.com
@@ -13097,6 +13118,7 @@ aqi.aqicn.org
 .ysage.com
 .ysaim.com
 .ysand.com
+.ysav184.xyz
 .ysbad.com
 .ysbed.com
 .yshide.com
@@ -13191,6 +13213,7 @@ aqi.aqicn.org
 .zhainanjidi.xyz
 .zhainanjidid.top
 .zhimeishe888.com
+.zibacity.com
 .zind.cloud
 .zingtruyen.net
 .ziporn.com
