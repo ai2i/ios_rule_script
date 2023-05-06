@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-05-06 02:10:45
+# UPDATED: 2023-05-07 02:11:01
 # DOMAIN: 158
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 18978
+# DOMAIN-SUFFIX: 19004
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 19286
+# TOTAL: 19312
 adobeereg.com
 angle.com.tw
 anime-rule34-world.b-cdn.net
@@ -233,6 +233,7 @@ aqi.aqicn.org
 .18schoolgirlz.me
 .18sex.org
 .1bigclub.com
+.1bokeponline.top
 .1classtube.com
 .1drv.com
 .1drv.ms
@@ -1022,6 +1023,7 @@ aqi.aqicn.org
 .anthemthegame.com
 .anudetube.com
 .anybunny.org
+.anydesk.com
 .anyhentai.com
 .anyporn.com
 .anypornhd.com
@@ -1576,6 +1578,7 @@ aqi.aqicn.org
 .babyzone.com
 .backdoorlesbians.com
 .backroomcastingcouch.com
+.bacon.com
 .badaas.com
 .badasianpussy.com
 .badgen.net
@@ -1657,6 +1660,7 @@ aqi.aqicn.org
 .bcove.video
 .bcrncdn.com
 .bcvp0rtal.com
+.bcy01.com
 .bdawnvr.xyz
 .bdn.dev
 .bdsm-mov.net
@@ -1954,6 +1958,7 @@ aqi.aqicn.org
 .bellotube.com
 .bellsouth.net
 .benaughty.fun
+.bengalisexvideos.com
 .benliton.com
 .berkanawireless.com
 .berlincompanions.com
@@ -2122,6 +2127,7 @@ aqi.aqicn.org
 .biorxiv.org
 .bioware.com
 .biowarestore.com
+.biqle.org
 .bisheng.cn
 .bishengcompiler.cn
 .bisq.network
@@ -3341,6 +3347,7 @@ aqi.aqicn.org
 .daddyslilangel.com
 .daftporn.com
 .daftsex-hd.com
+.daftsex.com
 .dagfs.com
 .dailybasis.com
 .dailymail.com
@@ -3373,6 +3380,7 @@ aqi.aqicn.org
 .darwinsource.org
 .darwinsourcecode.com
 .dashwood360.com
+.dastanhisexy.cc
 .dat.foundation
 .data.com
 .dataliberation.org
@@ -5538,6 +5546,7 @@ aqi.aqicn.org
 .gongyichuangyi.net
 .gonike.com
 .gonzo-movies.com
+.gonzo.com
 .good-gay.com
 .gooddaychicago.com
 .goodporno.cc
@@ -6301,6 +6310,7 @@ aqi.aqicn.org
 .huffpostbrasil.com
 .huffpostmaghreb.com
 .hugedildo.com
+.huj-pizda.com
 .huloo.cc
 .hulu.jp
 .huluaction.com
@@ -6593,6 +6603,7 @@ aqi.aqicn.org
 .ingka.com
 .ingka.dev
 .ingkacentres.com
+.ingyenszexvideo.top
 .inhumanity.com
 .inikesneakers.com
 .init-p01md-lb.push-apple.com.akadns.net
@@ -6807,6 +6818,7 @@ aqi.aqicn.org
 .iqq3.cc
 .iqqtv.net
 .iranianboobs.com
+.iransextv.com
 .iranx.net
 .iromod91.info
 .irotv301.top
@@ -8638,6 +8650,7 @@ aqi.aqicn.org
 .nfsworld.com
 .nftstorage.link
 .ngeo.com
+.ngfiles.com
 .nginx.com
 .nginx.org
 .nhentai.com
@@ -8833,6 +8846,7 @@ aqi.aqicn.org
 .noisullifb.com
 .nokiantyres.cn
 .nokiantyres.com
+.nomachine.com
 .nomulus.foo
 .nonktube.com
 .nonstopfap.com
@@ -9457,6 +9471,7 @@ aqi.aqicn.org
 .pheonix.money
 .phimsex47.club
 .phimsexhentai.me
+.phimsexkhongche.cyou
 .phimsexnhanh.club
 .photo-image.monster
 .photolia.net
@@ -9639,6 +9654,7 @@ aqi.aqicn.org
 .pornadoo.com
 .pornaf.com
 .pornaffected.com
+.pornandxxxvideos.com
 .pornaroma.com
 .pornav.co
 .pornaxo.com
@@ -10409,6 +10425,7 @@ aqi.aqicn.org
 .rushporn.online
 .russianrape.org
 .rust-lang.org
+.rustdesk.com
 .ruvideos.net
 .s-bluemix.net
 .s-books.com
@@ -10534,6 +10551,7 @@ aqi.aqicn.org
 .screenwisetrends.com
 .screenwisetrendspanel.com
 .screw-my-wife.com
+.scrolller.com
 .scsentry.cn
 .sdcountybmw.com
 .seagroup.com
@@ -10648,6 +10666,7 @@ aqi.aqicn.org
 .sexhotgames.com
 .sexhub.red
 .sexhubhd.com
+.sexifilm.top
 .sexiframe.com
 .sexindians.cc
 .sexiranian.party
@@ -10665,6 +10684,8 @@ aqi.aqicn.org
 .sexnaweb.net
 .sexnudo.com
 .sexo123.net
+.sexodama.com
+.sexodeamor.com
 .sexopornolive.com
 .sexoquente.blog
 .sexplustube.net
@@ -11136,6 +11157,7 @@ aqi.aqicn.org
 .starfox.com
 .starott.com
 .starplus.com
+.starsze.icu
 .startpath.com
 .startupjournal.com
 .startupschool.org
@@ -11323,6 +11345,7 @@ aqi.aqicn.org
 .sysinternals.com
 .syzbj36.xyz
 .szcheapmonsterheadphones.com
+.szexvideo.top
 .szwinnertechnology.com
 .tabooporns.com
 .tabustudios.co
@@ -11331,6 +11354,7 @@ aqi.aqicn.org
 .tail-f.com
 .tailf.com
 .tailwindtraders.com
+.taiwanadultexpo.com
 .take2games.com
 .takegoto.com
 .taknai.com
@@ -11895,6 +11919,7 @@ aqi.aqicn.org
 .uncams.com
 .uncensoredsexparties.com
 .underhentai.net
+.ungrounded.net
 .uninhibitedcomix.com
 .uniswap.org
 .unity.com
@@ -12322,6 +12347,7 @@ aqi.aqicn.org
 .w0512.com
 .w6un.com
 .wa.me
+.waittingfor001.weebly.com
 .wal-mart.com
 .wal.co
 .wallet.com

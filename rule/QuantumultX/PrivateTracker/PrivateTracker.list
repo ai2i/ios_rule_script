@@ -1,13 +1,13 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-05-06 02:12:09
-# HOST: 145
+# UPDATED: 2023-05-07 02:12:24
+# HOST: 142
 # HOST-KEYWORD: 3
 # HOST-SUFFIX: 114
 # IP-CIDR: 5
 # IP6-CIDR: 2
-# TOTAL: 269
+# TOTAL: 266
 HOST,1337.abcvg.info,PrivateTracker
 HOST,6ahddutb1ucc3cp.ru,PrivateTracker
 HOST,9.rarbg.com,PrivateTracker
@@ -47,6 +47,7 @@ HOST,movies.zsw.ca,PrivateTracker
 HOST,new-line.net,PrivateTracker
 HOST,nyaa.tracker.wf,PrivateTracker
 HOST,open.acgnxtracker.com,PrivateTracker
+HOST,open.acgtracker.com,PrivateTracker
 HOST,open.demonii.com,PrivateTracker
 HOST,open.dstud.io,PrivateTracker
 HOST,open.stealth.si,PrivateTracker
@@ -56,7 +57,6 @@ HOST,opentracker.i2p.rocks,PrivateTracker
 HOST,opentracker.io,PrivateTracker
 HOST,p2p.0g.cx,PrivateTracker
 HOST,p4p.arenabg.com,PrivateTracker
-HOST,parag.rs,PrivateTracker
 HOST,private.anonseed.com,PrivateTracker
 HOST,psyco.fr,PrivateTracker
 HOST,public.publictracker.xyz,PrivateTracker
@@ -83,7 +83,6 @@ HOST,torrentsmd.com,PrivateTracker
 HOST,tr.bangumi.moe,PrivateTracker
 HOST,tr.burnabyhighstar.com,PrivateTracker
 HOST,tr.cili001.com,PrivateTracker
-HOST,tr.ready4.icu,PrivateTracker
 HOST,tr2.cubonegro.lol,PrivateTracker
 HOST,tracker-udp.gbitt.info,PrivateTracker
 HOST,tracker.4.babico.name.tr,PrivateTracker
@@ -94,7 +93,6 @@ HOST,tracker.auctor.tv,PrivateTracker
 HOST,tracker.beeimg.com,PrivateTracker
 HOST,tracker.birkenwald.de,PrivateTracker
 HOST,tracker.bitsearch.to,PrivateTracker
-HOST,tracker.bittor.pw,PrivateTracker
 HOST,tracker.bt4g.com,PrivateTracker
 HOST,tracker.cubonegro.lol,PrivateTracker
 HOST,tracker.cyberia.is,PrivateTracker
@@ -111,7 +109,6 @@ HOST,tracker.ipv6tracker.ru,PrivateTracker
 HOST,tracker.jiesen.life,PrivateTracker
 HOST,tracker.jonaslsa.com,PrivateTracker
 HOST,tracker.joybomb.tw,PrivateTracker
-HOST,tracker.k.vu,PrivateTracker
 HOST,tracker.kuroy.me,PrivateTracker
 HOST,tracker.leech.ie,PrivateTracker
 HOST,tracker.lilithraws.cf,PrivateTracker
