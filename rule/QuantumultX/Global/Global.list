@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-05-07 02:11:18
-# HOST: 535
+# UPDATED: 2023-05-08 02:11:33
+# HOST: 536
 # HOST-KEYWORD: 39
 # HOST-SUFFIX: 19293
 # IP-CIDR: 106
 # IP6-CIDR: 4
 # USER-AGENT: 46
-# TOTAL: 20023
+# TOTAL: 20024
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
 HOST,3dns-3.adobe.com,Global
@@ -537,6 +537,7 @@ HOST,zeenews-fonts.s3.amazonaws.com,Global
 HOST,api.waqi.info,Global
 HOST,aqi.aqicn.org,Global
 HOST,assets-priconne-redive-us.akamaized.net,Global
+HOST,cloud.oracle.com,Global
 HOST,cvws.icloud-content.com,Global
 HOST,developer.apple.com,Global
 HOST,lens.l.google.com,Global
@@ -7275,6 +7276,7 @@ HOST-SUFFIX,javher.com,Global
 HOST-SUFFIX,javheroine.com,Global
 HOST-SUFFIX,javhihi.com,Global
 HOST-SUFFIX,javhub.me,Global
+HOST-SUFFIX,javidol.org,Global
 HOST-SUFFIX,javjack.com,Global
 HOST-SUFFIX,javjunkies.com,Global
 HOST-SUFFIX,javkiki.com,Global
@@ -7863,9 +7865,6 @@ HOST-SUFFIX,m-power.com,Global
 HOST-SUFFIX,m2m.com,Global
 HOST-SUFFIX,m5ir5np1.shop,Global
 HOST-SUFFIX,ma1lib.org,Global
-HOST-SUFFIX,maa1809.com,Global
-HOST-SUFFIX,maa1815.com,Global
-HOST-SUFFIX,maa1818.com,Global
 HOST-SUFFIX,mac-mini.com,Global
 HOST-SUFFIX,mac.com,Global
 HOST-SUFFIX,mac.wang,Global
@@ -9411,7 +9410,6 @@ HOST-SUFFIX,opte.org,Global
 HOST-SUFFIX,optica.org,Global
 HOST-SUFFIX,opticsforthecloud.net,Global
 HOST-SUFFIX,optimumssl.com,Global
-HOST-SUFFIX,oraclecloud.com,Global
 HOST-SUFFIX,oraclefoundation.org,Global
 HOST-SUFFIX,oracleimg.com,Global
 HOST-SUFFIX,oranum.com,Global
@@ -10744,6 +10742,7 @@ HOST-SUFFIX,sankei-tours.com,Global
 HOST-SUFFIX,sankie.net,Global
 HOST-SUFFIX,sanspo.com,Global
 HOST-SUFFIX,sanvaras.com,Global
+HOST-SUFFIX,sanwapub.com,Global
 HOST-SUFFIX,sapphicerotica.com,Global
 HOST-SUFFIX,sapphicpornonly.com,Global
 HOST-SUFFIX,sarajevopodopsadom.com,Global
@@ -11653,6 +11652,7 @@ HOST-SUFFIX,teacherfucksteens.com,Global
 HOST-SUFFIX,teachmyass.com,Global
 HOST-SUFFIX,teamneedforspeed.com,Global
 HOST-SUFFIX,teamskeet.com,Global
+HOST-SUFFIX,teamviewer.cn,Global
 HOST-SUFFIX,tearapeak.com,Global
 HOST-SUFFIX,teatroporno.com,Global
 HOST-SUFFIX,techatbloomberg.com,Global
@@ -17531,6 +17531,7 @@ HOST-SUFFIX,openwrt.org.cn,Global
 HOST-SUFFIX,opera-mini.net,Global
 HOST-SUFFIX,opera.com,Global
 HOST-SUFFIX,opus-gaming.com,Global
+HOST-SUFFIX,oraclecloud.com,Global
 HOST-SUFFIX,orchidbbs.com,Global
 HOST-SUFFIX,organcare.org.tw,Global
 HOST-SUFFIX,organharvestinvestigation.net,Global

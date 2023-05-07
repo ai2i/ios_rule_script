@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-05-07 02:08:37
+# UPDATED: 2023-05-08 02:09:11
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 11544
+# DOMAIN: 11521
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 117238
-# IP-CIDR: 245
+# DOMAIN-SUFFIX: 117284
+# IP-CIDR: 249
 # URL-REGEX: 285
-# TOTAL: 129576
+# TOTAL: 129603
 00-gov.cn
 0026645142c89aeb1.com
 006a039c957c142bb.com
@@ -330,7 +330,6 @@
 4702fb341ddf276d.com
 473863a8ef28.com
 47f624b2e6c6072e.com
-47zoz.xyz
 48331375c351e.com
 48423894b2a24481.com
 48dc47c7234e5258.com
@@ -741,7 +740,6 @@ ad4980.kr
 adakgpoi.com
 adalgo.info
 adcamel.pw
-adcd7.com
 adcfrthyo.tk
 adclick.lv
 adclickservice.com
@@ -1439,7 +1437,6 @@ be-notified.com
 beacon.search.yahoo.com
 beacon2.indieclicktv.com
 beacyoryjkbhqb.com
-beam.telex.hu
 beanscattering.jp
 beap-bc.yahoo.com
 beatchucknorris.com
@@ -1540,7 +1537,6 @@ bizfo.co.uk
 bizzibeans.net
 bjceodmwesmbth.com
 bjcpcnhssg.com
-bjcpjab.cn
 bjcvibh.com
 bjdthyywcargba.com
 bjjingda.com
@@ -2445,7 +2441,6 @@ darwarvid.com
 das5ku9q.com
 dashboardad.net
 data-hoisin.coocaa.com
-data.allstate.com
 data.fnexpress.cn
 data.game.xiaomi.com
 data2.xinba.com
@@ -3362,7 +3357,6 @@ flmyidbnljphko.com
 flnfbaoozuib.com
 flnwaqyh.com
 flodonas.com
-flow.kiloutou.fr
 flowplus.meituan.net
 flrqdjglshsbi.com
 flsfxpostdtvgc.com
@@ -3900,7 +3894,6 @@ gvzphwswtv.com
 gw.im.weibo.cn
 gw1.im.weibo.cn
 gwashiondevelhig.info
-gwide.xyz
 gwigqsgv.com
 gwjmznxk.com
 gwohimtyhbthg.com
@@ -4963,7 +4956,6 @@ jxjpszwpl.com
 jxkelzfrk.com
 jxkybegp.com
 jxmhgmkuw.com
-jxncs1.com
 jxswwvvejwzdd.com
 jxteerte.net
 jy.fucfg.com
@@ -5261,7 +5253,6 @@ kzmleuhgqifvzy.com
 kzrwzjmlasll.com
 kzzeupckj.com
 l-ring.msedge.net
-l.gentside.com
 l.kkj578.fun
 l3-2.anzuinfra.com
 l55268.com
@@ -5601,7 +5592,6 @@ lvrvufurxhgp.com
 lvvfcuzzdor.com
 lvvycndnspeuwo.com
 lwfvrhlqzjseyu.com
-lwh147.xyz
 lwmwrsfzm.com
 lwprdsbqpej.com
 lwsxrphion.com
@@ -7914,7 +7904,6 @@ rvsnomziiepcds.com
 rvswxrjkmjou.com
 rvtqbxawlkbq.com
 rvwhtjxnn.com
-rw.marchex.io
 rwalomjwgyljqj.com
 rwfqhbwkxpewc.com
 rwgvulisul.com
@@ -8314,7 +8303,6 @@ sowlobptfzfh.com
 soyue.cc
 sp-prod.net
 spaceruz.online
-spacetraveldin.com
 spartorshecrablac.pro
 spatsz.com
 spcwm.com
@@ -8373,7 +8361,6 @@ ssl4anyone5.com
 sslboost.com
 ssmyceoxbjqdp.com
 ssp-partner.alibaba.com
-ssp.rambler.ru
 sspicy.ru
 ssqpsrlknohdao.com
 ssqzsdcnoqv.com
@@ -8385,7 +8372,6 @@ star.86uk.com
 startraint.com
 stat-data.net
 stat-well.com
-stat.tiara.tistory.com
 stat08.com
 statelead.com
 statesol.net
@@ -8489,7 +8475,6 @@ swcuxrfitmjfee.com
 swegaiejcqfojl.com
 swiftypecdn.com
 swjvfwtypu.com
-swmhdata.stuttgarter-nachrichten.de
 swmwgptzlgsc.com
 swqlzufnbngw.com
 swstkrihg.com
@@ -8806,18 +8791,11 @@ tr-vcode-api.vivoglobal.com
 trace.ledu.com
 traceybell.co.uk
 track.absoluteclickscom.com
-track.buzzerilla.com
 track.crumobiapps.com
-track.exame.com
-track.historictalk.com
 track.iafov.com
-track.juststarz.com
 track.magneticfriends.com
 track.mypcbackup.com
-track.parentmood.com
 track.rqqft.com
-track.shrinkplus.com
-track.thefunpost.com
 track.wzpec.com
 trackadsb1.com
 trackaffpix.com
@@ -9371,7 +9349,6 @@ vfousvlr.com
 vfsirfnosdx.com
 vfsyklhwbxgq.com
 vfxkeagns.com
-vg247-uk.vg247.com
 vg74gi6mea.com
 vgbvsduys.com
 vghjsrae.com
@@ -12668,7 +12645,6 @@ zzxosget.com
 .230579.top
 .23182b9851.com
 .2329.ink
-.233a.luyouwang.com
 .233wo.com
 .2345.cc
 .2345.cn
@@ -13506,6 +13482,7 @@ zzxosget.com
 .47f9b1fbc5.com
 .47n209.com
 .47r.cn
+.47zoz.xyz
 .480a70b554.com
 .480img.com
 .482hb.cn
@@ -13747,6 +13724,7 @@ zzxosget.com
 .521bec59f1.com
 .5221.net
 .5251.net
+.5251m.xyz
 .525cm.com
 .5269120.com
 .526d.com
@@ -17793,6 +17771,7 @@ zzxosget.com
 .acsam-relay.agof.de
 .acsbap.com
 .acsbapp.com
+.acsc10.com
 .acscdn.com
 .acsentia.fr
 .acsshufxnu.com
@@ -18897,6 +18876,7 @@ zzxosget.com
 .adcater.com
 .adcccc.com
 .adccoo.cn
+.adcd7.com
 .adcde.com
 .adcdn.goo.ne.jp
 .adcdn.hpplay.cn
@@ -24133,6 +24113,7 @@ zzxosget.com
 .ambientplatform.vn
 .ambiguousalarm.com
 .ambiguousanger.com
+.ambiguousdinosaurs.com
 .ambiguousincome.com
 .ambiguousquilt.com
 .ambiliarcarwin.com
@@ -28983,6 +28964,7 @@ zzxosget.com
 .banicywan.com
 .baniep.com
 .banik.redigy.cz
+.banisterspast.com
 .banjuanmao.com
 .bank.svb.com
 .bank8line.com
@@ -29429,6 +29411,7 @@ zzxosget.com
 .bawlerhanoi.website
 .bax.xiawu.com
 .baxavxa.com
+.baxdpwaceyha.xyz
 .baxf.m.shuhuangge.org
 .baxofalis.com
 .baxt.mobi
@@ -29892,6 +29875,7 @@ zzxosget.com
 .beam.mjhlifesciences.com
 .beam.remp.impresa.pt
 .beam.remp.nv.ua
+.beam.telex.hu
 .beambroth.com
 .beamedshipwreck.com
 .beamfuloakwood.com
@@ -30224,6 +30208,7 @@ zzxosget.com
 .benchit.com
 .benchmarkemail.fr
 .benchtag2.co
+.bend-me-over.com
 .bendan.shop
 .bendcauslesscauslessnotion.com
 .bendibao.site
@@ -31160,6 +31145,7 @@ zzxosget.com
 .bjbrtc.com
 .bjcass.com
 .bjcathay.com
+.bjcpjab.cn
 .bjcwwsc.xyz
 .bjdianyue.com
 .bjdqxt.com
@@ -35679,6 +35665,7 @@ zzxosget.com
 .chenyaxin.xyz
 .chenyayun.com.cn
 .chenyuzhou1.cn
+.chenze1.cn
 .chenzhao.xyz
 .chenzx.site
 .cheon2buy.xyz
@@ -37204,7 +37191,6 @@ zzxosget.com
 .cm.informaengage.com
 .cm.jd.com
 .cm.kwad.com
-.cm.luyouwang.com
 .cm.nordvpn.com
 .cm.oneidentity.com
 .cm.passport.iqiyi.com
@@ -44021,6 +44007,7 @@ zzxosget.com
 .data.all-in.de
 .data.allgaeuer-zeitung.de
 .data.alloystore.dev
+.data.allstate.com
 .data.americas.coca-cola.com
 .data.apac.coca-cola.com
 .data.apn.co.nz
@@ -46337,6 +46324,7 @@ zzxosget.com
 .dk57sacpbi4by.cloudfront.net
 .dkbicq.elektramat.nl
 .dkclxi.sitkagear.com
+.dkcwnsu.xyz
 .dkdlsj.com
 .dkeyn.com
 .dkfixj.xyz
@@ -47615,6 +47603,7 @@ zzxosget.com
 .dsxljqkcgrv.xyz
 .dszan.com
 .dszeda.cn
+.dszhqww.cn
 .dt.beyla.site
 .dt.nrjmobile.fr
 .dt.vnecdn.com
@@ -49183,6 +49172,7 @@ zzxosget.com
 .edmi.nextinpact.com
 .edmo.fr
 .edmontonlife.info
+.edncewvfadqrkr.com
 .edncui.net
 .ednewsbd.com
 .ednplus.com
@@ -49250,6 +49240,7 @@ zzxosget.com
 .edvforeveretest.com
 .edvforeveretest.info
 .edvfwlacluo.com
+.edvrfjrrxk.com
 .edw.edmunds.com
 .edwad.co
 .edwate.com
@@ -50228,6 +50219,7 @@ zzxosget.com
 .emploresmith.com
 .employedlawn.com
 .employerpartingbikini.com
+.employmentsuppressedbeautiful.com
 .emplpoi-store.fr
 .emprimetrama.com
 .emptem.com
@@ -50278,6 +50270,7 @@ zzxosget.com
 .enahmy.xyz
 .enalytics.fr
 .enamberchivies.com
+.enarmriv.com
 .enarmuokzo.com
 .enationmaleos.website
 .enawsu.adzuna.co.uk
@@ -51309,6 +51302,7 @@ zzxosget.com
 .euliglsp.space
 .eultech.fnac.com
 .eum-appdynamics.com
+.eum2.caisse-epargne.fr
 .eumarketing.sedgwick.com
 .eumeainfo.motorolasolutions.com
 .eumnxwvp.ink
@@ -52985,6 +52979,7 @@ zzxosget.com
 .feredletrighro.com
 .feredletrighro.info
 .feridgiuntelic.com
+.feript.com
 .ferliestonics.com
 .fermacyupplow.com
 .fermentsinewencase.com
@@ -53805,6 +53800,7 @@ zzxosget.com
 .flossyarrayal.life
 .flottervoter.com
 .flouralmighty.com
+.flow.kiloutou.fr
 .flow8free.com
 .flowcodeapp.com
 .flower.aridjaya.com
@@ -54183,6 +54179,7 @@ zzxosget.com
 .forjoiyvids.online
 .forjoiyvids.pics
 .forjoiyvids.site
+.forjoiyvids.space
 .forjoiyvidspics.online
 .forjoiyvidspics.site
 .forjoiyvidspics.space
@@ -56016,6 +56013,7 @@ zzxosget.com
 .gempeety.com
 .gempoussee.com
 .gemtrackers.com
+.gen-ref.com
 .gen.alicdn.com
 .gen.etherscan.io
 .genbalar.com
@@ -58252,6 +58250,7 @@ zzxosget.com
 .grazeit.com
 .graziefootier.com
 .grc2.secureforms.mcafee.com
+.grdbmkgcixjelg.com
 .greake.com
 .greasegarden.com
 .greasemotion.com
@@ -58807,6 +58806,7 @@ zzxosget.com
 .guxin.me
 .guxsxexlkdk.xyz
 .guyu8855.club
+.guzhimian.fun
 .guzijie.top
 .gv4e.top
 .gvapp.ru
@@ -58840,6 +58840,7 @@ zzxosget.com
 .gwen.insertcoin.se
 .gwf0.icu
 .gwguyh.edreams.es
+.gwide.xyz
 .gwklaser.fr
 .gwmeinq.cn
 .gwmrb.cn
@@ -60822,6 +60823,7 @@ zzxosget.com
 .hohosearch.com
 .hohpdld.cn
 .hoidenbinate.com
+.hoiea.xyz
 .hoisin.coocaa.com
 .hoisquit.buzz
 .hoistchart.com
@@ -67049,6 +67051,7 @@ zzxosget.com
 .jriparzpia.com
 .jrkkmpeqtlsawgf.com
 .jrmixnjsc.com
+.jrmviandvyayic.com
 .jrnciibouc.com
 .jrnrpma.cn
 .jropij.minelli.fr
@@ -67597,6 +67600,7 @@ zzxosget.com
 .jxliu.com
 .jxlqgs.com
 .jxmzyg.com
+.jxncs1.com
 .jxnrfx.com
 .jxoaza.yourmystar.jp
 .jxpxzxf.cn
@@ -68298,6 +68302,7 @@ zzxosget.com
 .khmyte.mobstub.com
 .kho3au7l4z.me
 .khoa.jqk.lol
+.khocixcadfuk.com
 .khoilive.xyz
 .khoslo.com
 .khoteris.ru
@@ -69207,6 +69212,7 @@ zzxosget.com
 .kunjia.org
 .kunlunshitou.com
 .kunner.wiesentbote.de
+.kuno-gae.com
 .kunpeng-sc.csdnimg.cn
 .kunpeng.csdn.net
 .kuntic.com
@@ -69289,6 +69295,7 @@ zzxosget.com
 .kvtggg.top
 .kvtlll.top
 .kvtnnn.top
+.kvukwwtp.com
 .kw3y5otoeuniv7e9rsi.com
 .kwadakesd.cyou
 .kwalnc.vans.co.kr
@@ -69432,6 +69439,7 @@ zzxosget.com
 .l.ffx.io
 .l.franceculture.fr
 .l.francetvinfo.fr
+.l.gentside.com
 .l.hamazo.tv
 .l.ialoc.app
 .l.iamfy.co
@@ -70313,6 +70321,7 @@ zzxosget.com
 .legcatastrophetransmitted.com
 .legcgjldeka.com
 .legehtxfwcg.com
+.legendadmiration.com
 .legendarylars.com
 .legendsmaestri.com
 .legenhit.com
@@ -73153,6 +73162,7 @@ zzxosget.com
 .lwfw88.cn
 .lwgadm.com
 .lwh1.carrefour-banque.fr
+.lwh147.xyz
 .lwhqa.xyz
 .lwhsdfc.cn
 .lwjvyd.com
@@ -90252,7 +90262,6 @@ zzxosget.com
 .profi-para.com
 .profield.ddns.net
 .profile.marketone.com
-.profile.ssp.rambler.ru
 .profile.uproxx.com
 .profileknee.com
 .profilenetflix.com
@@ -91500,6 +91509,7 @@ zzxosget.com
 .pvefyasgsa.xyz
 .pvfbav.sportler.com
 .pvhgws7.com
+.pvjlfjz.cn
 .pvjscfhlt.com
 .pvlbcw.glamira.ro
 .pvlog.hd.baofeng.com
@@ -96222,6 +96232,7 @@ zzxosget.com
 .rw-yieldmo-com-1857737650.us-west-2.elb.amazonaws.com
 .rw.davielyedith.com
 .rw.gundogleaker.com
+.rw.marchex.io
 .rw.net.rewe.de
 .rwadakesz.cyou
 .rwdito.carsguide.com.au
@@ -104151,6 +104162,7 @@ zzxosget.com
 .spaces.martela.fi
 .spaces.martela.pl
 .spaceshipads.com
+.spacetraveldin.com
 .spaciouslanentablelanentablepigs.com
 .spade.twitch.tv
 .spadeballroom.com
@@ -105147,6 +105159,7 @@ zzxosget.com
 .ssp.lionmobo.com
 .ssp.mediation.trnox.com
 .ssp.qq.com
+.ssp.rambler.ru
 .ssp.seznam.cz
 .ssp.tadseeker.com
 .ssp.tencentmusic.com
@@ -105801,6 +105814,7 @@ zzxosget.com
 .stat.tianya.cn
 .stat.tiara.daum.net
 .stat.tiara.kakao.com
+.stat.tiara.tistory.com
 .stat.tildacdn.com
 .stat.timedg.com
 .stat.tomdebruijn.com
@@ -106289,7 +106303,6 @@ zzxosget.com
 .stats.booncon.com
 .stats.bordspel.org
 .stats.boscabeatha.ie
-.stats.bouyguestelecom.fr
 .stats.break.com
 .stats.breathly.app
 .stats.brennholzauktion.com
@@ -107507,6 +107520,7 @@ zzxosget.com
 .stitchkidney.com
 .stithujogle.pro
 .stitly.com
+.stitor.com
 .stitue.com
 .stiwhugn.net
 .stixeepou.com
@@ -108378,6 +108392,7 @@ zzxosget.com
 .svarajwens.com
 .svava.eu
 .svc.mobilexsoft.com
+.svc2.sc.com
 .svcwvx.cn
 .svedkan.com
 .sveklon.com
@@ -108637,6 +108652,7 @@ zzxosget.com
 .swisslide.fr
 .switchadhub.com
 .swlmd.com
+.swmhdata.stuttgarter-nachrichten.de
 .swmhdata.stuttgarter-zeitung.de
 .swml.xyz
 .swndtvvwq.com
@@ -113991,6 +114007,7 @@ zzxosget.com
 .track.buyamarose.online
 .track.buybox.click
 .track.buyma.com
+.track.buzzerilla.com
 .track.byaffiliate.com
 .track.byzon.swelen.net
 .track.cafu.com
@@ -114131,6 +114148,7 @@ zzxosget.com
 .track.estoneworks.com
 .track.eurogirlsescort.com
 .track.evertondirect.evertonfc.com
+.track.exame.com
 .track.express.de
 .track.extra.app
 .track.ezsolutionsx.com
@@ -114198,6 +114216,7 @@ zzxosget.com
 .track.helpfordisability.org
 .track.helpsforsenior.com
 .track.highpeakco.com
+.track.historictalk.com
 .track.hk01.com
 .track.homeownerupgrade.com
 .track.homestead.com
@@ -114257,6 +114276,7 @@ zzxosget.com
 .track.jumphigherspace.com
 .track.juno.com
 .track.justgratefulnhappy.com
+.track.juststarz.com
 .track.kailav.com
 .track.kait-lifestyles.com
 .track.kansonadesign.com
@@ -114434,6 +114454,7 @@ zzxosget.com
 .track.ownelement.com
 .track.ownviral.com
 .track.parcelabc.com
+.track.parentmood.com
 .track.peakmart.de
 .track.peavoidud.com
 .track.perfectcreativehive.com
@@ -114510,6 +114531,7 @@ zzxosget.com
 .track.shashibo.co
 .track.shop.psg.fr
 .track.shop2market.com
+.track.shrinkplus.com
 .track.sigmob.cn
 .track.simonton.com
 .track.simplegadgetsexplained.com
@@ -114552,6 +114574,7 @@ zzxosget.com
 .track.thebase.in
 .track.thecapitalinvest.com
 .track.theculturedkid.com
+.track.thefunpost.com
 .track.thelitlamps.com
 .track.themaccleanup.info
 .track.thesaurus.com
@@ -115878,6 +115901,7 @@ zzxosget.com
 .ttoc8ok.com
 .ttoefanyorget.one
 .ttplugins.ttpsdk.info
+.ttpybz.xyz
 .ttqr58.cn
 .ttrace.ru
 .ttrailwaysint.com
@@ -116353,6 +116377,7 @@ zzxosget.com
 .tynt.com
 .tynyh.com
 .typekit.net-v3.edgekey.net
+.typerealisepredict.com
 .typescoordinate.com
 .typewriter.fr
 .typhonwave.com
@@ -118907,6 +118932,7 @@ zzxosget.com
 .vfzxaz.bloomingdales.ae
 .vg02h8z1ul.me
 .vg247-p2.vg247.com
+.vg247-uk.vg247.com
 .vg4u8rvq65t6.com
 .vgaom.com
 .vgavzy.spierandmackay.com
@@ -120279,7 +120305,6 @@ zzxosget.com
 .w319.nordnet.se
 .w38ju82bano4.cv.gerardbosch.xyz
 .w3989.com
-.w3c.5txs.com
 .w3counter.com
 .w3exit.com
 .w3facility.org
@@ -123947,6 +123972,7 @@ zzxosget.com
 .wx.paigu.com
 .wx.xwjqr.com
 .wx.zx590.com
+.wx001.online
 .wx16999.com
 .wxa79ef55c1a84e284.wx.ckjr001.com
 .wxaw.tiantongmaoyi.com
@@ -125693,6 +125719,7 @@ zzxosget.com
 .xyznews3.today
 .xyznews4.today
 .xyztanitim.com
+.xyzyqq.com
 .xyzznt.uterque.com
 .xz-development.oss-cn-beijing.aliyuncs.com
 .xz.ercfh.com
@@ -128228,7 +128255,6 @@ zzxosget.com
 .zmadsvd.cn
 .zmakj.xyz
 .zmctrack.net
-.zmdtcw.cn
 .zmedia.com
 .zmenmuol.com
 .zmetrics.msn.com
@@ -128258,7 +128284,6 @@ zzxosget.com
 .zndsssp.dangbei.net
 .znews.su
 .znfg6677.top
-.znktkt.cn
 .znlgplt.com
 .znllfp.xyz
 .znmtka.kikocosmetics.com
@@ -128313,7 +128338,6 @@ zzxosget.com
 .zontera.com
 .zonupiza.com
 .zooahm2fx2v1.com
-.zoologywoof.com
 .zoom.zshu.net
 .zoomflow.com
 .zoomhead.xyz
@@ -128717,7 +128741,6 @@ zzxosget.com
 .zysheptany.com
 .zythumungull.com
 .zytpirwai.net
-.zytsbro.cn
 .zytwq.net
 .zyugar.com
 .zywhjd.com

@@ -1,12 +1,12 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-28 02:07:14
+# UPDATED: 2023-05-08 02:07:37
 # DOMAIN: 23678
 # DOMAIN-KEYWORD: 27
-# DOMAIN-SUFFIX: 13580
+# DOMAIN-SUFFIX: 13560
 # IP-CIDR: 184
-# TOTAL: 37469
+# TOTAL: 37449
 payload:
   - DOMAIN,00-gov.cn
   - DOMAIN,0024aadd.com
@@ -25673,7 +25673,6 @@ payload:
   - DOMAIN-SUFFIX,amiok.org
   - DOMAIN-SUFFIX,ammankeyan.com
   - DOMAIN-SUFFIX,amobee.com
-  - DOMAIN-SUFFIX,amp-error-reporting.appspot.com
   - DOMAIN-SUFFIX,ampallall.site
   - DOMAIN-SUFFIX,ampleteexis.info
   - DOMAIN-SUFFIX,amradmin.5173.com
@@ -25792,7 +25791,6 @@ payload:
   - DOMAIN-SUFFIX,anysdk.com
   - DOMAIN-SUFFIX,anyysz.com
   - DOMAIN-SUFFIX,anzhuocpm.com
-  - DOMAIN-SUFFIX,ao-freegeoip.herokuapp.com
   - DOMAIN-SUFFIX,aodongjiaosu.com
   - DOMAIN-SUFFIX,aombjl099.com
   - DOMAIN-SUFFIX,aomde.com
@@ -26076,7 +26074,6 @@ payload:
   - DOMAIN-SUFFIX,ax.ifeng.com
   - DOMAIN-SUFFIX,axhxa.com
   - DOMAIN-SUFFIX,axiba66.com
-  - DOMAIN-SUFFIX,axislogger.appspot.com
   - DOMAIN-SUFFIX,axizb.cn
   - DOMAIN-SUFFIX,axkxy.com
   - DOMAIN-SUFFIX,axonix.com
@@ -26825,7 +26822,6 @@ payload:
   - DOMAIN-SUFFIX,casee.cn
   - DOMAIN-SUFFIX,cash.neweramediaworks.com
   - DOMAIN-SUFFIX,casinohacksforyou.com
-  - DOMAIN-SUFFIX,caspionlog.appspot.com
   - DOMAIN-SUFFIX,cast-bid27-j.adtdp.com
   - DOMAIN-SUFFIX,castplatform.com
   - DOMAIN-SUFFIX,catalog.video.msn.com
@@ -27171,7 +27167,6 @@ payload:
   - DOMAIN-SUFFIX,cloud.zyiis.net
   - DOMAIN-SUFFIX,cloudad.asia
   - DOMAIN-SUFFIX,cloudcdn.dopa.com.cn
-  - DOMAIN-SUFFIX,cloudfront-labs.amazonaws.com
   - DOMAIN-SUFFIX,cloudmobi.net
   - DOMAIN-SUFFIX,cloudpush.iqiyi.com
   - DOMAIN-SUFFIX,clubpenguinclub.com
@@ -27511,7 +27506,6 @@ payload:
   - DOMAIN-SUFFIX,csbthyhh.com
   - DOMAIN-SUFFIX,csgtfruit.com
   - DOMAIN-SUFFIX,cshwhy.cn
-  - DOMAIN-SUFFIX,csp-collector.appspot.com
   - DOMAIN-SUFFIX,csp.archant.co.uk
   - DOMAIN-SUFFIX,cspb1.5w5w.com
   - DOMAIN-SUFFIX,csqiulong.com
@@ -28791,7 +28785,6 @@ payload:
   - DOMAIN-SUFFIX,fgzba.com
   - DOMAIN-SUFFIX,fhbv.cn
   - DOMAIN-SUFFIX,fibusedie.site
-  - DOMAIN-SUFFIX,filament-stats.herokuapp.com
   - DOMAIN-SUFFIX,file.bmob.cn
   - DOMAIN-SUFFIX,files2.sogou.com
   - DOMAIN-SUFFIX,fimg-resp.seznam.cz
@@ -28860,7 +28853,6 @@ payload:
   - DOMAIN-SUFFIX,fouas.com
   - DOMAIN-SUFFIX,foumm.com
   - DOMAIN-SUFFIX,founseezb.cn
-  - DOMAIN-SUFFIX,fourmtagservices.appspot.com
   - DOMAIN-SUFFIX,fowpq.top
   - DOMAIN-SUFFIX,foxypp.com
   - DOMAIN-SUFFIX,fozhu.rrsdl.com
@@ -29001,7 +28993,6 @@ payload:
   - DOMAIN-SUFFIX,g4rre.xyz
   - DOMAIN-SUFFIX,g52bl.cn
   - DOMAIN-SUFFIX,g6rfh.cn
-  - DOMAIN-SUFFIX,ga-beacon.appspot.com
   - DOMAIN-SUFFIX,ga.canoe.ca
   - DOMAIN-SUFFIX,ga.kvideo.io
   - DOMAIN-SUFFIX,gaandroid.talkingdata.net
@@ -29356,7 +29347,6 @@ payload:
   - DOMAIN-SUFFIX,graunada.com
   - DOMAIN-SUFFIX,greatvideos.xyz
   - DOMAIN-SUFFIX,grebanise.pw
-  - DOMAIN-SUFFIX,green-griffin-860.appspot.com
   - DOMAIN-SUFFIX,green.erne.co
   - DOMAIN-SUFFIX,greenbetterkids.com
   - DOMAIN-SUFFIX,greenhouseglobal.cn
@@ -29397,7 +29387,6 @@ payload:
   - DOMAIN-SUFFIX,gtmsdd.alicdn.com
   - DOMAIN-SUFFIX,gtmucs.cn
   - DOMAIN-SUFFIX,gtnde.com
-  - DOMAIN-SUFFIX,gtrk.s3.amazonaws.com
   - DOMAIN-SUFFIX,gu.qlogo.cn
   - DOMAIN-SUFFIX,guaas.com
   - DOMAIN-SUFFIX,guang.lesports.com
@@ -30407,7 +30396,6 @@ payload:
   - DOMAIN-SUFFIX,jasonsvid.com
   - DOMAIN-SUFFIX,jaugloup.com
   - DOMAIN-SUFFIX,jav23.com
-  - DOMAIN-SUFFIX,javascriptcounter.appspot.com
   - DOMAIN-SUFFIX,javhd.com
   - DOMAIN-SUFFIX,jb.4hw.com.cn
   - DOMAIN-SUFFIX,jb.asqql.com
@@ -31190,7 +31178,6 @@ payload:
   - DOMAIN-SUFFIX,lishuanghao.com
   - DOMAIN-SUFFIX,listenother.com
   - DOMAIN-SUFFIX,listlog.baofeng.net
-  - DOMAIN-SUFFIX,literally-analytics.appspot.com
   - DOMAIN-SUFFIX,litlif.net
   - DOMAIN-SUFFIX,littlementok.site
   - DOMAIN-SUFFIX,liufang1994.top
@@ -32572,7 +32559,6 @@ payload:
   - DOMAIN-SUFFIX,oneapm.com
   - DOMAIN-SUFFIX,onesegreativec.site
   - DOMAIN-SUFFIX,onesoft.im
-  - DOMAIN-SUFFIX,onespot-tracking.herokuapp.com
   - DOMAIN-SUFFIX,onetad.com
   - DOMAIN-SUFFIX,onetag-sys.com
   - DOMAIN-SUFFIX,onetouch4.com
@@ -32928,7 +32914,6 @@ payload:
   - DOMAIN-SUFFIX,pimg1.126.net
   - DOMAIN-SUFFIX,pincidao.cn
   - DOMAIN-SUFFIX,pindao.huoban.taobao.com
-  - DOMAIN-SUFFIX,ping-dot-acp-magento.appspot.com
   - DOMAIN-SUFFIX,ping.acc.sogou.com
   - DOMAIN-SUFFIX,ping.hellobar.com
   - DOMAIN-SUFFIX,ping.pinyin.sogou.com
@@ -33417,7 +33402,6 @@ payload:
   - DOMAIN-SUFFIX,quanjiapp.cn
   - DOMAIN-SUFFIX,quansj.cn
   - DOMAIN-SUFFIX,quavomi.com
-  - DOMAIN-SUFFIX,qubitanalytics.appspot.com
   - DOMAIN-SUFFIX,qucaigg.com
   - DOMAIN-SUFFIX,queene.cn
   - DOMAIN-SUFFIX,questionmarket.com
@@ -34315,7 +34299,6 @@ payload:
   - DOMAIN-SUFFIX,sp3.cndm.com
   - DOMAIN-SUFFIX,sp96878.com
   - DOMAIN-SUFFIX,spahelani.com
-  - DOMAIN-SUFFIX,spanids.dictionary.com
   - DOMAIN-SUFFIX,spap.adingo.jp
   - DOMAIN-SUFFIX,spb.bid.run
   - DOMAIN-SUFFIX,spcode.baidu.cn
@@ -34560,7 +34543,6 @@ payload:
   - DOMAIN-SUFFIX,statsfe2.ws.microsoft.com
   - DOMAIN-SUFFIX,statstat888.com
   - DOMAIN-SUFFIX,statstracker.celebrity-gossip.net
-  - DOMAIN-SUFFIX,statt-collect.herokuapp.com
   - DOMAIN-SUFFIX,stattrack.0catch.com
   - DOMAIN-SUFFIX,stbt.coupons.com
   - DOMAIN-SUFFIX,stdl.qq.com
@@ -35118,7 +35100,6 @@ payload:
   - DOMAIN-SUFFIX,track.collegehumor.com
   - DOMAIN-SUFFIX,track.cooster.ru
   - DOMAIN-SUFFIX,track.derbund.ch
-  - DOMAIN-SUFFIX,track.dictionary.com
   - DOMAIN-SUFFIX,track.did-it.com
   - DOMAIN-SUFFIX,track.dragonparking.com
   - DOMAIN-SUFFIX,track.e7r.com.br
@@ -35135,6 +35116,7 @@ payload:
   - DOMAIN-SUFFIX,track.securedvisit.com
   - DOMAIN-SUFFIX,track.slideshare.net
   - DOMAIN-SUFFIX,track.spots.im
+  - DOMAIN-SUFFIX,track.sprinklecontent.com
   - DOMAIN-SUFFIX,track.toutiao.com
   - DOMAIN-SUFFIX,track.ugamezone.com
   - DOMAIN-SUFFIX,track.vdo.ai
@@ -35226,7 +35208,6 @@ payload:
   - DOMAIN-SUFFIX,traffic.mogujie.com
   - DOMAIN-SUFFIX,traffic.uusee.com
   - DOMAIN-SUFFIX,trafficfactory.biz
-  - DOMAIN-SUFFIX,trafficfuelpixel.s3-us-west-2.amazonaws.com
   - DOMAIN-SUFFIX,trafficjam.cn
   - DOMAIN-SUFFIX,trafficjunky.com
   - DOMAIN-SUFFIX,trafficjunky.net
@@ -35958,7 +35939,6 @@ payload:
   - DOMAIN-SUFFIX,wcaos.com
   - DOMAIN-SUFFIX,wcjup.com
   - DOMAIN-SUFFIX,wcnmd.top
-  - DOMAIN-SUFFIX,wcs.naver.com
   - DOMAIN-SUFFIX,wda.ydt.com.cn
   - DOMAIN-SUFFIX,wdeie.com
   - DOMAIN-SUFFIX,wdgsl.com

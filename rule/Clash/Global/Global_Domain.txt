@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-05-07 02:11:01
-# DOMAIN: 158
+# UPDATED: 2023-05-08 02:11:17
+# DOMAIN: 159
 # DOMAIN-KEYWORD: 39
 # DOMAIN-SUFFIX: 19004
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 19312
+# TOTAL: 19313
 adobeereg.com
 angle.com.tw
 anime-rule34-world.b-cdn.net
@@ -167,6 +167,7 @@ wrds-www.wharton.upenn.edu
 www-cdn.icloud.com.akadns.net
 api.waqi.info
 aqi.aqicn.org
+cloud.oracle.com
 .01.org
 .02weqj32.com
 .04647.club
@@ -6978,6 +6979,7 @@ aqi.aqicn.org
 .javheroine.com
 .javhihi.com
 .javhub.me
+.javidol.org
 .javjack.com
 .javjunkies.com
 .javkiki.com
@@ -7568,9 +7570,6 @@ aqi.aqicn.org
 .m2m.com
 .m5ir5np1.shop
 .ma1lib.org
-.maa1809.com
-.maa1815.com
-.maa1818.com
 .mac-mini.com
 .mac.com
 .mac.wang
@@ -9118,7 +9117,6 @@ aqi.aqicn.org
 .optica.org
 .opticsforthecloud.net
 .optimumssl.com
-.oraclecloud.com
 .oraclefoundation.org
 .oracleimg.com
 .oranum.com
@@ -10474,6 +10472,7 @@ aqi.aqicn.org
 .sankie.net
 .sanspo.com
 .sanvaras.com
+.sanwapub.com
 .sapphicerotica.com
 .sapphicpornonly.com
 .sarajevopodopsadom.com
@@ -11386,6 +11385,7 @@ aqi.aqicn.org
 .teachmyass.com
 .teamneedforspeed.com
 .teamskeet.com
+.teamviewer.cn
 .tearapeak.com
 .teatroporno.com
 .techatbloomberg.com
@@ -16943,6 +16943,7 @@ aqi.aqicn.org
 .opera-mini.net
 .opera.com
 .opus-gaming.com
+.oraclecloud.com
 .orchidbbs.com
 .organcare.org.tw
 .organharvestinvestigation.net

@@ -1,12 +1,12 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-28 02:07:14
+# UPDATED: 2023-05-08 02:07:37
 # DOMAIN: 23678
 # DOMAIN-KEYWORD: 27
-# DOMAIN-SUFFIX: 13580
+# DOMAIN-SUFFIX: 13560
 # IP-CIDR: 184
-# TOTAL: 37469
+# TOTAL: 37449
 00-gov.cn
 0024aadd.com
 0026645142c89aeb1.com
@@ -25672,7 +25672,6 @@ zzxosget.com
 .amiok.org
 .ammankeyan.com
 .amobee.com
-.amp-error-reporting.appspot.com
 .ampallall.site
 .ampleteexis.info
 .amradmin.5173.com
@@ -25791,7 +25790,6 @@ zzxosget.com
 .anysdk.com
 .anyysz.com
 .anzhuocpm.com
-.ao-freegeoip.herokuapp.com
 .aodongjiaosu.com
 .aombjl099.com
 .aomde.com
@@ -26075,7 +26073,6 @@ zzxosget.com
 .ax.ifeng.com
 .axhxa.com
 .axiba66.com
-.axislogger.appspot.com
 .axizb.cn
 .axkxy.com
 .axonix.com
@@ -26824,7 +26821,6 @@ zzxosget.com
 .casee.cn
 .cash.neweramediaworks.com
 .casinohacksforyou.com
-.caspionlog.appspot.com
 .cast-bid27-j.adtdp.com
 .castplatform.com
 .catalog.video.msn.com
@@ -27170,7 +27166,6 @@ zzxosget.com
 .cloud.zyiis.net
 .cloudad.asia
 .cloudcdn.dopa.com.cn
-.cloudfront-labs.amazonaws.com
 .cloudmobi.net
 .cloudpush.iqiyi.com
 .clubpenguinclub.com
@@ -27510,7 +27505,6 @@ zzxosget.com
 .csbthyhh.com
 .csgtfruit.com
 .cshwhy.cn
-.csp-collector.appspot.com
 .csp.archant.co.uk
 .cspb1.5w5w.com
 .csqiulong.com
@@ -28790,7 +28784,6 @@ zzxosget.com
 .fgzba.com
 .fhbv.cn
 .fibusedie.site
-.filament-stats.herokuapp.com
 .file.bmob.cn
 .files2.sogou.com
 .fimg-resp.seznam.cz
@@ -28859,7 +28852,6 @@ zzxosget.com
 .fouas.com
 .foumm.com
 .founseezb.cn
-.fourmtagservices.appspot.com
 .fowpq.top
 .foxypp.com
 .fozhu.rrsdl.com
@@ -29000,7 +28992,6 @@ zzxosget.com
 .g4rre.xyz
 .g52bl.cn
 .g6rfh.cn
-.ga-beacon.appspot.com
 .ga.canoe.ca
 .ga.kvideo.io
 .gaandroid.talkingdata.net
@@ -29355,7 +29346,6 @@ zzxosget.com
 .graunada.com
 .greatvideos.xyz
 .grebanise.pw
-.green-griffin-860.appspot.com
 .green.erne.co
 .greenbetterkids.com
 .greenhouseglobal.cn
@@ -29396,7 +29386,6 @@ zzxosget.com
 .gtmsdd.alicdn.com
 .gtmucs.cn
 .gtnde.com
-.gtrk.s3.amazonaws.com
 .gu.qlogo.cn
 .guaas.com
 .guang.lesports.com
@@ -30406,7 +30395,6 @@ zzxosget.com
 .jasonsvid.com
 .jaugloup.com
 .jav23.com
-.javascriptcounter.appspot.com
 .javhd.com
 .jb.4hw.com.cn
 .jb.asqql.com
@@ -31189,7 +31177,6 @@ zzxosget.com
 .lishuanghao.com
 .listenother.com
 .listlog.baofeng.net
-.literally-analytics.appspot.com
 .litlif.net
 .littlementok.site
 .liufang1994.top
@@ -32571,7 +32558,6 @@ zzxosget.com
 .oneapm.com
 .onesegreativec.site
 .onesoft.im
-.onespot-tracking.herokuapp.com
 .onetad.com
 .onetag-sys.com
 .onetouch4.com
@@ -32927,7 +32913,6 @@ zzxosget.com
 .pimg1.126.net
 .pincidao.cn
 .pindao.huoban.taobao.com
-.ping-dot-acp-magento.appspot.com
 .ping.acc.sogou.com
 .ping.hellobar.com
 .ping.pinyin.sogou.com
@@ -33416,7 +33401,6 @@ zzxosget.com
 .quanjiapp.cn
 .quansj.cn
 .quavomi.com
-.qubitanalytics.appspot.com
 .qucaigg.com
 .queene.cn
 .questionmarket.com
@@ -34314,7 +34298,6 @@ zzxosget.com
 .sp3.cndm.com
 .sp96878.com
 .spahelani.com
-.spanids.dictionary.com
 .spap.adingo.jp
 .spb.bid.run
 .spcode.baidu.cn
@@ -34559,7 +34542,6 @@ zzxosget.com
 .statsfe2.ws.microsoft.com
 .statstat888.com
 .statstracker.celebrity-gossip.net
-.statt-collect.herokuapp.com
 .stattrack.0catch.com
 .stbt.coupons.com
 .stdl.qq.com
@@ -35117,7 +35099,6 @@ zzxosget.com
 .track.collegehumor.com
 .track.cooster.ru
 .track.derbund.ch
-.track.dictionary.com
 .track.did-it.com
 .track.dragonparking.com
 .track.e7r.com.br
@@ -35134,6 +35115,7 @@ zzxosget.com
 .track.securedvisit.com
 .track.slideshare.net
 .track.spots.im
+.track.sprinklecontent.com
 .track.toutiao.com
 .track.ugamezone.com
 .track.vdo.ai
@@ -35225,7 +35207,6 @@ zzxosget.com
 .traffic.mogujie.com
 .traffic.uusee.com
 .trafficfactory.biz
-.trafficfuelpixel.s3-us-west-2.amazonaws.com
 .trafficjam.cn
 .trafficjunky.com
 .trafficjunky.net
@@ -35957,7 +35938,6 @@ zzxosget.com
 .wcaos.com
 .wcjup.com
 .wcnmd.top
-.wcs.naver.com
 .wda.ydt.com.cn
 .wdeie.com
 .wdgsl.com
