@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-05-08 02:11:17
+# UPDATED: 2023-05-09 02:10:42
 # DOMAIN: 159
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 19004
+# DOMAIN-SUFFIX: 19007
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 19313
+# TOTAL: 19316
 payload:
   - DOMAIN,adobeereg.com
   - DOMAIN,angle.com.tw
@@ -188,6 +188,7 @@ payload:
   - DOMAIN-SUFFIX,110xnxx.com
   - DOMAIN-SUFFIX,112263.com
   - DOMAIN-SUFFIX,114av.xyz
+  - DOMAIN-SUFFIX,11jav.com
   - DOMAIN-SUFFIX,123-hp.com
   - DOMAIN-SUFFIX,123hplaserjet.com
   - DOMAIN-SUFFIX,123sex.top
@@ -721,6 +722,7 @@ payload:
   - DOMAIN-SUFFIX,airwick.com
   - DOMAIN-SUFFIX,airwick.net
   - DOMAIN-SUFFIX,airwickarabia.com
+  - DOMAIN-SUFFIX,aisejushi.com
   - DOMAIN-SUFFIX,aishegw.com
   - DOMAIN-SUFFIX,aiv-cdn.net
   - DOMAIN-SUFFIX,aiv-delivery.net
@@ -6938,6 +6940,7 @@ payload:
   - DOMAIN-SUFFIX,javbabe.net
   - DOMAIN-SUFFIX,javbangers.com
   - DOMAIN-SUFFIX,javbobo.com
+  - DOMAIN-SUFFIX,javbooks.com
   - DOMAIN-SUFFIX,javbraze.com
   - DOMAIN-SUFFIX,javbus22.com
   - DOMAIN-SUFFIX,javbuz.com

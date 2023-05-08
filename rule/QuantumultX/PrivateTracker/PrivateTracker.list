@@ -1,13 +1,13 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-05-08 02:12:35
-# HOST: 147
+# UPDATED: 2023-05-09 02:12:04
+# HOST: 146
 # HOST-KEYWORD: 3
 # HOST-SUFFIX: 118
 # IP-CIDR: 5
 # IP6-CIDR: 2
-# TOTAL: 275
+# TOTAL: 274
 HOST,1337.abcvg.info,PrivateTracker
 HOST,6ahddutb1ucc3cp.ru,PrivateTracker
 HOST,9.rarbg.com,PrivateTracker
@@ -32,7 +32,6 @@ HOST,exodus.desync.com,PrivateTracker
 HOST,explodie.org,PrivateTracker
 HOST,fe.dealclub.de,PrivateTracker
 HOST,fh2.cmp-gaming.com,PrivateTracker
-HOST,freedom.1776.ga,PrivateTracker
 HOST,htz3.noho.st,PrivateTracker
 HOST,hub.bugout.link,PrivateTracker
 HOST,incine.ru,PrivateTracker
@@ -75,6 +74,7 @@ HOST,static.54.161.216.95.clients.your-server.de,PrivateTracker
 HOST,t.133335.xyz,PrivateTracker
 HOST,t.acg.rip,PrivateTracker
 HOST,t.nyaatracker.com,PrivateTracker
+HOST,t.zerg.pw,PrivateTracker
 HOST,t1.hloli.org,PrivateTracker
 HOST,tamas3.ynh.fr,PrivateTracker
 HOST,thagoat.rocks,PrivateTracker
@@ -93,11 +93,10 @@ HOST,tracker.altrosky.nl,PrivateTracker
 HOST,tracker.arcbox.cc,PrivateTracker
 HOST,tracker.artixlinux.org,PrivateTracker
 HOST,tracker.auctor.tv,PrivateTracker
-HOST,tracker.beeimg.com,PrivateTracker
 HOST,tracker.birkenwald.de,PrivateTracker
 HOST,tracker.bitsearch.to,PrivateTracker
-HOST,tracker.bittor.pw,PrivateTracker
 HOST,tracker.bt4g.com,PrivateTracker
+HOST,tracker.ccp.ovh,PrivateTracker
 HOST,tracker.cubonegro.lol,PrivateTracker
 HOST,tracker.cyberia.is,PrivateTracker
 HOST,tracker.dler.com,PrivateTracker

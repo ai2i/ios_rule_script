@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-05-07 02:11:35
+# UPDATED: 2023-05-09 02:11:15
 # DOMAIN: 165
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 65398
+# DOMAIN-SUFFIX: 65400
 # IP-CIDR: 14
 # USER-AGENT: 31
-# TOTAL: 65617
+# TOTAL: 65619
 265.com
 2mdn-cn.net
 2mdn.net
@@ -21387,6 +21387,7 @@ xn--flw351e.com
 .eznowdns.net
 .ezone-h5.com
 .ezpaychain.com
+.ezpro.pro
 .ezrpro.com
 .ezsmth.com
 .eztcn.com
@@ -53519,6 +53520,7 @@ xn--flw351e.com
 .uiste.com
 .uiu.cc
 .uiusc.com
+.uiwow.com
 .ujakn.com
 .ujia007.com
 .ujian.cc

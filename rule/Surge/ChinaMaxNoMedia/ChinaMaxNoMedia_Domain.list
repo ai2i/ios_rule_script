@@ -1,16 +1,16 @@
 # NAME: ChinaMaxNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-05-07 02:13:46
+# UPDATED: 2023-05-09 02:13:24
 # DOMAIN: 162
 # DOMAIN-KEYWORD: 11
-# DOMAIN-SUFFIX: 66517
+# DOMAIN-SUFFIX: 66519
 # IP-ASN: 1216
-# IP-CIDR: 5396
+# IP-CIDR: 5392
 # IP-CIDR6: 5281
 # PROCESS-NAME: 11
 # USER-AGENT: 65
-# TOTAL: 78659
+# TOTAL: 78657
 265.com
 2mdn-cn.net
 accounts.googlers.com
@@ -21564,6 +21564,7 @@ xn--flw351e.com
 .eznowdns.net
 .ezone-h5.com
 .ezpaychain.com
+.ezpro.pro
 .ezrpro.com
 .ezsmth.com
 .eztcn.com
@@ -54322,6 +54323,7 @@ xn--flw351e.com
 .uiste.com
 .uiu.cc
 .uiusc.com
+.uiwow.com
 .ujakn.com
 .ujia007.com
 .ujiaoshou.com
