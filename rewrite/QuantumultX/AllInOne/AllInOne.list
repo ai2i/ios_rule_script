@@ -1,14 +1,14 @@
 # NAME: AllInOne
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-28 02:15:30
+# UPDATED: 2023-05-10 02:17:07
 # HOST: 5
 # HTTP-REQUEST-SCRIPT: 3
 # HTTP-RESPONSE-SCRIPT: 32
 # REDIRECT: 62
-# REJECT: 602
-# MITM: 617
-# TOTAL: 1321
+# REJECT: 603
+# MITM: 618
+# TOTAL: 1323
 HOST,appcloud.zhihu.com,AdvertisingScript
 HOST,appcloud2.in.zhihu.com,AdvertisingScript
 HOST,crash2.zhihu.com,AdvertisingScript

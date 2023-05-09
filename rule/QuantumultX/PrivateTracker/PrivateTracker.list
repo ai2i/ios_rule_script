@@ -1,7 +1,7 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-05-09 02:12:04
+# UPDATED: 2023-05-10 02:14:02
 # HOST: 146
 # HOST-KEYWORD: 3
 # HOST-SUFFIX: 118
@@ -32,6 +32,7 @@ HOST,exodus.desync.com,PrivateTracker
 HOST,explodie.org,PrivateTracker
 HOST,fe.dealclub.de,PrivateTracker
 HOST,fh2.cmp-gaming.com,PrivateTracker
+HOST,freedom.1776.ga,PrivateTracker
 HOST,htz3.noho.st,PrivateTracker
 HOST,hub.bugout.link,PrivateTracker
 HOST,incine.ru,PrivateTracker
@@ -74,7 +75,6 @@ HOST,static.54.161.216.95.clients.your-server.de,PrivateTracker
 HOST,t.133335.xyz,PrivateTracker
 HOST,t.acg.rip,PrivateTracker
 HOST,t.nyaatracker.com,PrivateTracker
-HOST,t.zerg.pw,PrivateTracker
 HOST,t1.hloli.org,PrivateTracker
 HOST,tamas3.ynh.fr,PrivateTracker
 HOST,thagoat.rocks,PrivateTracker
@@ -118,13 +118,13 @@ HOST,tracker.leech.ie,PrivateTracker
 HOST,tracker.lilithraws.cf,PrivateTracker
 HOST,tracker.lilithraws.org,PrivateTracker
 HOST,tracker.loligirl.cn,PrivateTracker
-HOST,tracker.mlsub.net,PrivateTracker
 HOST,tracker.moeking.me,PrivateTracker
 HOST,tracker.monitorit4.me,PrivateTracker
 HOST,tracker.mywaifu.best,PrivateTracker
 HOST,tracker.openbittorrent.com,PrivateTracker
 HOST,tracker.opentrackr.org,PrivateTracker
 HOST,tracker.openwebtorrent.com,PrivateTracker
+HOST,tracker.peckservers.com,PrivateTracker
 HOST,tracker.pimpmyworld.to,PrivateTracker
 HOST,tracker.qu.ax,PrivateTracker
 HOST,tracker.renfei.net,PrivateTracker
